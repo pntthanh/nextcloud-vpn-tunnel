@@ -1,0 +1,8 @@
+{
+    "nextcloud_url": "https://your-nextcloud-instance.com",
+    "nextcloud_user": "username",
+    "nextcloud_pass": "password",
+    "sync_folder_client": "/path/to/local/client/sync",
+    "sync_folder_server": "/path/to/nextcloud/data/username/files/VPN",
+    "encryption_key": "a-very-secret-key"
+}
